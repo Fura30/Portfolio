@@ -74,7 +74,7 @@ background-color:#aaC15d;
 position:relative;
 display:flex;
 justify-content:space-between;
-
+border-bottom:20px solid #3aafa9;
 }
 .aboute {
 width:60%;
